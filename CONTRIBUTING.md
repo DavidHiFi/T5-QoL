@@ -1,22 +1,19 @@
-# Contributing
+# Contributing to T5-QoL
 
-Thanks for helping T5 QoL. The mod is GSC for Call of Duty: Black Ops on Plutonium.
+Thanks for the interest. Development has not started yet, so this repository collects ideas for now.
 
-## Ways to help
+## Suggesting a feature
 
-- Report in-game bugs with the mod settings involved
-- Send GSC fixes
-- Test changes across the game modes the mod touches
+[Open an issue](https://github.com/DavidHiFi/T5-QoL/issues/new) that describes what you want in Black Ops Zombies and why. Name the map, mode and round where it bothers you. A screenshot or a clip helps.
 
-## Getting set up
+## Reporting a bug
 
-No build commands are documented in the README yet. The mod installs and updates through the Quality of Life mod manager.
+There is no mod to break yet. Bugs in the Black Ops II mod go to [T6-QoL](https://github.com/DavidHiFi/T6-QoL/issues/new), and bugs in the mod manager go to [QualityOfLifeModManager](https://github.com/DavidHiFi/QualityOfLifeModManager/issues/new).
 
-## Checks before a pull request
+## Sending a pull request
 
-- Test in game on Plutonium
-- Describe the modes and settings your change touches
+Please hold code until development starts. There is nothing to build or test yet, and this file will list the setup and checks once there is.
 
-## Where to submit
+## License
 
-Open issues and pull requests in this repository.
+By contributing, you agree that your work is released under this repo's [MIT License](LICENSE).
