@@ -40,14 +40,6 @@ The [**Quality of Life Mod Manager**](https://github.com/DavidHiFi/QualityOfLife
 > [!NOTE]
 > **Linux is planned too.** Plutonium runs through Wine and Proton, and the manual install will work there the way it does for [T6-QoL](https://github.com/DavidHiFi/T6-QoL#installation).
 
----
-
-## Support development
-
-This mod will be free, like the rest of the series. Any amount of support is greatly appreciated, and it helps the series get to Black Ops sooner.
-
-[![Support DavidHiFi on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/davidhifi)
-
 ## Contributing
 
 Ideas and the Black Ops Zombies annoyances you want fixed are the most useful thing right now.
