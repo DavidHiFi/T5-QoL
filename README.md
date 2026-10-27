@@ -28,12 +28,12 @@ Part of the [Quality Of Life Series](https://github.com/DavidHiFi/Plutonium-QoL-
 
 ## Mod manager
 
-The [**Quality of Life Mod Manager**](https://github.com/DavidHiFi/QualityOfLifeModManager) already handles Black Ops. You can use it today:
+The [**Blutac Launcher**](https://github.com/DavidHiFi/Blutac-Launcher) already handles Black Ops. You can use it today:
 
 - **Mods:** see every mod in your Plutonium folder, install new ones from a file or the catalog, and remove the rest.
 - **Play:** launch the game in LAN with a mod loaded, or online through Plutonium's launcher.
 
-[Download it](https://github.com/DavidHiFi/QualityOfLifeModManager/releases/latest): setup or portable zip, Windows 10 or 11.
+[Download it](https://github.com/DavidHiFi/Blutac-Launcher/releases/latest): setup or portable zip, Windows 10 or 11.
 
 ## Notes
 
